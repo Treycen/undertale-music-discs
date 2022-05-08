@@ -1,0 +1,154 @@
+{
+  "music_disc.alphys": {
+    "sounds": [
+      {
+        "name": "umd:records/alphys",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.asgore": {
+    "sounds": [
+      {
+        "name": "umd:records/asgore",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.bonetrousle": {
+    "sounds": [
+      {
+        "name": "umd:records/bonetrousle",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.core": {
+    "sounds": [
+      {
+        "name": "umd:records/core",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.deathbyglamour": {
+    "sounds": [
+      {
+        "name": "umd:records/deathbyglamour",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.dogsong": {
+    "sounds": [
+      {
+        "name": "umd:records/dogsong",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.dummy": {
+    "sounds": [
+      {
+        "name": "umd:records/dummy",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.fallendown": {
+    "sounds": [
+      {
+        "name": "umd:records/fallendown",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.ghostfight": {
+    "sounds": [
+      {
+        "name": "umd:records/ghostfight",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.heartache": {
+    "sounds": [
+      {
+        "name": "umd:records/heartache",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.hotel": {
+    "sounds": [
+      {
+        "name": "umd:records/hotel",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.megalovania": {
+    "sounds": [
+      {
+        "name": "umd:records/megalovania",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.ohonetruelove": {
+    "sounds": [
+      {
+        "name": "umd:records/ohonetruelove",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.sans": {
+    "sounds": [
+      {
+        "name": "umd:records/sans",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.shop": {
+    "sounds": [
+      {
+        "name": "umd:records/shop",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.spearofjustice": {
+    "sounds": [
+      {
+        "name": "umd:records/spearofjustice",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.spiderdance": {
+    "sounds": [
+      {
+        "name": "umd:records/spiderdance",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.undyne": {
+    "sounds": [
+      {
+        "name": "umd:records/undyne",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.waterfall": {
+    "sounds": [
+      {
+        "name": "umd:records/waterfall",
+        "stream": true
+      }
+    ]
+  }
+}

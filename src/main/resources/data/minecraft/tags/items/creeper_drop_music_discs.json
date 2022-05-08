@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "umd:music_disc_alphys",
+    "umd:music_disc_asgore",
+    "umd:music_disc_bonetrousle",
+    "umd:music_disc_core",
+    "umd:music_disc_deathbyglamour",
+    "umd:music_disc_dogsong",
+    "umd:music_disc_dummy",
+    "umd:music_disc_fallendown",
+    "umd:music_disc_ghostfight",
+    "umd:music_disc_heartache",
+    "umd:music_disc_hotel",
+    "umd:music_disc_megalovania",
+    "umd:music_disc_ohonetruelove",
+    "umd:music_disc_sans",
+    "umd:music_disc_shop",
+    "umd:music_disc_spearofjustice",
+    "umd:music_disc_spiderdance",
+    "umd:music_disc_undyne",
+    "umd:music_disc_waterfall"
+  ]
+}

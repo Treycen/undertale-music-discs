@@ -1,0 +1,38 @@
+{
+	"schema_version": 1,
+	"quilt_loader": {
+		"group": "net.treycen.undertalemusicdiscs",
+		"id": "umd",
+		"version": "${version}",
+		"metadata": {
+			"name": "Undertale Music Discs",
+			"description": "Adds all your favorite Undertale music to the game! \n\nMusic By Toby Fox - https://twitter.com/tobyfox",
+			"contributors": {
+				"Treycen": "Developer"
+			},
+			"contact": {
+				"homepage": "https://github.com/Treycen",
+				"issues": "https://www.curseforge.com/minecraft/mc-mods/fabric-undertale-music-discs"
+			},
+			"icon": "assets/umd/textures/icon.png"
+		},
+		"intermediate_mappings": "net.fabricmc:intermediary",
+		"entrypoints": {
+			"init": "net.treycen.undertalemusicdiscs.UndertaleMusicDiscs"
+		},
+		"depends": [
+			{
+				"id": "quilt_loader",
+				"versions": ">=0.16.0-"
+			},
+			{
+				"id": "quilted_fabric_api",
+				"versions": ">=1.0.0-"
+			},
+			{
+				"id": "minecraft",
+				"versions": ">=1.18.2"
+			}
+		]
+	}
+}
